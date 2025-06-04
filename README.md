@@ -1,4 +1,4 @@
-Nombrombre de los Integrantes: 
+Nommbre de los Integrantes: 
 · Francisco Ezequiel Alarcón
 · Leandro David Zalazar
 
